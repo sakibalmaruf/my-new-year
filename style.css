@@ -245,3 +245,17 @@ font-style: normal}
   background-color: orangered;
   font-family: 'Open Sans', sans-serif;
 }
+.p-h{
+  font-family: 'Open Sans', sans-serif;
+  display: flex;
+}
+.f-email{
+  font-family: 'Open Sans', sans-serif;}
+
+  .ph{
+    font-family: 'Open Sans', sans-serif;
+  }
+  .subscribe{
+    font-family: 'Open Sans', sans-serif;
+  text-align: right;
+  }
