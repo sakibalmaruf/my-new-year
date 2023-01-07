@@ -172,3 +172,23 @@ left: 1157px;
 top: 1889.3px;
 
 }
+.watch{
+  background-image: url('images/watch.png');
+  position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2216.3px;
+background-position: 0;
+border-radius: 8px;
+padding: 10;
+}
+.call{
+  padding: 200;
+}
+.call-btn{
+  padding: 10 5;
+  background-color: orangered;
+  text-emphasis-color: white;
+  border-radius: 0 0 0 0;
+}
